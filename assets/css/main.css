@@ -2288,7 +2288,7 @@
 		button.fit,
 		.button.fit {
 			display: block;
-			margin: 0 0 1em 0;
+			margin: 50px 0 1em 0;
 			width: 100%;
 		}
 
@@ -3416,6 +3416,10 @@
 			padding: 0.35em 1em;
 			position: relative;
 			z-index: 1;
+		}
+
+		#blue {
+			color: #11b3ff;
 		}
 
 			#banner h2:before, #banner h2:after {
