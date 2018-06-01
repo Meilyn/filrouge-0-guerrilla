@@ -1996,7 +1996,7 @@
 
 	ul {
 		list-style: disc;
-		margin: 0 0 2em 0;
+		margin: 50px 0 2em 0;
 		padding-left: 1em;
 	}
 
@@ -3821,7 +3821,7 @@
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
-
+	/*Code par Meilyn ANDRADE */
 	#justify {
 		text-align: justify;
 	}
