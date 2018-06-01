@@ -28,11 +28,14 @@ L’association soutient prioritairement les actions à destination des filles e
 *Publier le résultat sur ce formulaire avant la fin de la deadline.
 
 
-### Outils
+### OUTILS
 
 * [html5up.net](https://html5up.net/)
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse/) 
-* [SublimeText] (https://www.sublimetext.com/)
+* [SublimeText](https://www.sublimetext.com/)
+
+### DIFFICULTÉS RENCONTRÉES
+
 
 ### TEST LIGHTHOUSE
 (1er Test)
