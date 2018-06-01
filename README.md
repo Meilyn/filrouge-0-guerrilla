@@ -6,6 +6,8 @@ Les Orphelins de Pondichéry est une organisation non politique, non gouvernemen
 
 L’association soutient prioritairement les actions à destination des filles et des garçons  les orphelinats situés dans le village de Nonacouppam et Palayam, près de Pondichery (Inde). Depuis 2012, elle prend en charge la construction d’un atelier de couture qui sera ouvert aux enfants et aux femmes du village et participe à l’éducation des enfants d’orphelinat.
 
+Résultat: [Les Orphelins de Pondichéry](https://meilyn.github.io/filrouge-0-guerrilla/) 
+
 ### MISSION
  
 * Création d'un one-pager pour l'association **Les Orphelins de Pondichéry**. 
@@ -17,7 +19,7 @@ L’association soutient prioritairement les actions à destination des filles e
 * Website: AUCUN.
 * [Facebook](https://bit.ly/2J7sQK3)
 * [Blog](https://orphelinsdepondichery.jimdo.com/don-et-adhesion/)
-* Résultat: [Les Orphelins de Pondichéry](https://meilyn.github.io/filrouge-0-guerrilla/) 
+
 
 ### OBJECTIVES
 * Réaliser un one-pager.
